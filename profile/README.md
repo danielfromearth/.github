@@ -14,4 +14,6 @@ If you find that this isn't the case, please open an issue.
 
 ### Contributors
 
-_TODO_
+You could either:
+- Update remote URLs for any local clones of the repo, by running `git remote set-url origin https://github.com/earthaccess-dev/earthaccess.git`
+- Re-clone the repository from [earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
